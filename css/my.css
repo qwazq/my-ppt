@@ -2,10 +2,63 @@
 
 .top{
 	text-align:left;
-	
+
+}
+h1{
+	font-size: 25px;
 }
 p{
-	font-size: 40px;
-	line-height: 125%;
+	font-size: 30px;
 	text-align: left;
+}
+
+.center{
+	text-align: center;
+}
+
+.psmale{
+	font-size: 20px;
+	line-height: 200%;
+	 margin:0px 0px
+}
+.ca1{
+
+border-left-style: outset;
+border-left-color: #ff3796 ;
+	border-left-width: 2px;
+}
+.ca2{
+	border-left-style: outset;
+border-left-color: #00faac;
+	border-left-width: 2px;
+}
+
+.ca3{
+		border-left-style: outset;
+border-left-color: #fffdaf;
+	border-left-width: 2px;
+}
+
+.ca4{
+		border-left-style: outset;
+border-left-color: #fffdaf;
+	border-left-width: 2px;
+}
+
+.ca5{
+		border-left-style: outset;
+border-left-color: #f6f6f6;
+	border-left-width: 2px;
+}
+
+.ca6{
+		border-left-style: outset;
+border-left-color: #bdf2d5;
+	border-left-width: 2px;
+}
+
+.ca7{
+		border-left-style: outset;
+border-left-color: #7ad9f5;
+	border-left-width: 2px;
 }

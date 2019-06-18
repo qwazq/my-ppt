@@ -80,7 +80,8 @@
 			// number for the current slide. The function needs to return an array
 			// with one string [slideNumber] or three strings [n1,delimiter,n2].
 			// See #formatSlideNumber().
-			slideNumber: false,
+			//false
+			slideNumber: true,
 
 			// Can be used to limit the contexts in which the slide number appears
 			// - "all":      Always show the slide number

@@ -17,7 +17,7 @@ html {
 
 body {
   height: 100%;
-  overflow: hidden;
+  overflow:auto;/* hidden;*/
   position: relative;
   line-height: 1;
   margin: 0;
