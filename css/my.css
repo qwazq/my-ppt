@@ -7,8 +7,15 @@
 h1{
 	font-size: 25px;
 }
+h2{
+	font-size: 25px;
+}
+
+h3{
+	font-size: 25px;
+}
 p{
-	font-size: 30px;
+	font-size: 24px;
 	text-align: left;
 }
 
@@ -61,4 +68,9 @@ border-left-color: #bdf2d5;
 		border-left-style: outset;
 border-left-color: #7ad9f5;
 	border-left-width: 2px;
+}
+
+.imgfloat-r{
+	
+	float:right;
 }
